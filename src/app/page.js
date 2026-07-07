@@ -56,10 +56,11 @@ export default function Home() {
             <p className="text-slate-600 text-center mb-8">
               Specializing in SAP Analytics Cloud, SAP Datasphere, advanced planning, and AI integration across pharma, manufacturing, retail, and beyond.
             </p>
-            <div className="flex gap-4 justify-center">
+            <div className="flex gap-4 justify-center flex-wrap">
               <Link href="/services" className="text-blue-600 hover:text-blue-700 font-medium">Services →</Link>
               <Link href="/about" className="text-blue-600 hover:text-blue-700 font-medium">About →</Link>
               <Link href="/cv" className="text-blue-600 hover:text-blue-700 font-medium">CV →</Link>
+              <Link href="/private" className="text-blue-600 hover:text-blue-700 font-medium">FR Sabate →</Link>
             </div>
           </div>
         </div>
