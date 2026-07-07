@@ -83,7 +83,7 @@ export default function CV() {
       {/* Footer */}
       <footer className="bg-slate-900 text-slate-300 py-12 px-6 mt-20">
         <div className="max-w-6xl mx-auto text-center">
-          <p className="mb-4">&copy; 2024 Livelock. One-person consulting by Alberto Sabate.</p>
+          <p className="mb-4">&copy; 2026 Livelock. One-person consulting by Alberto Sabate.</p>
           <div className="flex gap-6 justify-center text-sm">
             <a href="https://linkedin.com/in/albertosabate" target="_blank" rel="noopener noreferrer" className="hover:text-white">LinkedIn</a>
             <a href="mailto:alberto.sabate@livelock.pl" className="hover:text-white">Email</a>
